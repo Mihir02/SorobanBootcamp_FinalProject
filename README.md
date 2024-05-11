@@ -32,7 +32,7 @@ The Automatic Charity Donations smart contract allows users to make token transf
 
 ## Usage
 
-To deploy this smart contract on the Soroban blockchain platform, compile the code and deploy the resulting bytecode. Once deployed, interact with the contract using Soroban-compatible tools or libraries.
+To deploy this smart contract on the Soroban blockchain platform, compile the code and deploy the resulting bytecode. Once deployed, interact with the contract using Soroban-compatible tools or libraries. Smart Contract Address: "CCTZNU7HPJIC6HBN4FL5SLHSYJ2SPFOHFXGAGTATS6XRM3PJNNTM5WWG"
 
 ## Project Structure
 
